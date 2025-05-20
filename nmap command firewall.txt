@@ -1,0 +1,2 @@
+nmap --script=http-wf-fingerprint www.host.com 
+nmap -p 80 --script=http-wf-fingerprint www.host.com

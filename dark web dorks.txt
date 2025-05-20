@@ -1,0 +1,9 @@
+
+site:onion.link
+site:onion.cab 
+site:tor2web.org 
+site:onion.sh 
+site:tor2web.fi 
+site:onion.direct
+-----------------------------------------------------
+deep web links ext:txt

